@@ -1,0 +1,5 @@
+/node_modules
+
+.env
+/assets/profile/chrome/DefaultData/*
+!/assets/profile/chrome/DefaultData/.gitkeep

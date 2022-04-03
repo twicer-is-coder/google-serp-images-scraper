@@ -1,0 +1,19 @@
+{
+  "name": "google-serp-images-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.1",
+    "puppeteer": "^13.5.2",
+    "puppeteer-extra": "^3.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
+}
